@@ -12,7 +12,7 @@ With **30 years of experience** in software product development for the automoti
 ## Career History
 
 ### Siemens Digital Industries Software — Director, Capital Platform Foundations, PLM LCS *(2023 – present)*
-Responsible for driving **strategy and product management** for Capital's **Xcelerator and third-party integrations**, shaping the platform foundations that underpin Siemens' electrical systems design portfolio.
+Responsible for driving **strategy and product management** for Capital's **Xcelerator and third-party integrations, styling and management applications**, shaping the platform foundations that underpin Siemens' electrical systems design portfolio.
 
 ### Siemens Digital Industries Software — Market Development Director, DI SW IES *(2021 – 2023)*
 Part of the global market development team for the **automotive and transportation sector**, with a focus on:
@@ -25,10 +25,10 @@ Part of the global market development team for the **automotive and transportati
 Led the **technical aspects of Cloud/SaaS development** for Siemens Integrated Electrical Systems (IES), driving the transition to modern cloud-native architectures.
 
 ### Di.IT GmbH — Technical Director *(2017 – 2019)*
-Technical leadership for automotive software solutions, bridging engineering and product strategy within the wire harness and manufacturing domain.
+Technical leadership for the **MES software solutions**, bridging engineering and product strategy within the wire harness and manufacturing domain.
 
 ### COMSA Computer und Software GmbH — Head of Product Development *(1994 – 2017)*
-Over **23 years** of product development leadership, building foundational expertise in wire harness engineering, manufacturing systems (KSK, MES), and standardized data exchange (KBL, VEC) for the global automotive industry.
+Over **23 years** of software product development leadership, building foundational expertise in wire harness engineering, manufacturing systems (KSK, MES), and standardized data exchange (KBL, VEC) for the global automotive industry.
 
 ---
 
